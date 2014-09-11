@@ -1,0 +1,29 @@
+D:\SourceCode\电子白板\电磁白板\130705\GK.WhiteboardServer beta4\GK.WhiteboardServer\bin\Release\GK.WhiteboardServer.exe
+D:\SourceCode\电子白板\电磁白板\130705\GK.WhiteboardServer beta4\GK.WhiteboardServer\bin\Release\GK.WhiteboardServer.pdb
+D:\SourceCode\电子白板\电磁白板\130705\GK.WhiteboardServer beta4\GK.WhiteboardServer\bin\Release\de\GK.WhiteboardServer.resources.dll
+D:\SourceCode\电子白板\电磁白板\130705\GK.WhiteboardServer beta4\GK.WhiteboardServer\bin\Release\en\GK.WhiteboardServer.resources.dll
+D:\SourceCode\电子白板\电磁白板\130705\GK.WhiteboardServer beta4\GK.WhiteboardServer\bin\Release\zh-TW\GK.WhiteboardServer.resources.dll
+D:\SourceCode\电子白板\电磁白板\130705\GK.WhiteboardServer beta4\GK.WhiteboardServer\bin\Release\zh-CN\GK.WhiteboardServer.resources.dll
+D:\SourceCode\电子白板\电磁白板\130705\GK.WhiteboardServer beta4\GK.WhiteboardServer\obj\x86\Release\ResolveAssemblyReference.cache
+D:\SourceCode\电子白板\电磁白板\130705\GK.WhiteboardServer beta4\GK.WhiteboardServer\obj\x86\Release\GK.WhiteboardServer.AboutForm.resources
+D:\SourceCode\电子白板\电磁白板\130705\GK.WhiteboardServer beta4\GK.WhiteboardServer\obj\x86\Release\GK.WhiteboardServer.FrmMain.resources
+D:\SourceCode\电子白板\电磁白板\130705\GK.WhiteboardServer beta4\GK.WhiteboardServer\obj\x86\Release\GK.WhiteboardServer.Properties.Resources.resources
+D:\SourceCode\电子白板\电磁白板\130705\GK.WhiteboardServer beta4\GK.WhiteboardServer\obj\x86\Release\GK.WhiteboardServer.ShortcutsForm.resources
+D:\SourceCode\电子白板\电磁白板\130705\GK.WhiteboardServer beta4\GK.WhiteboardServer\obj\x86\Release\GK.WhiteboardServer.WhiteboardForm.resources
+D:\SourceCode\电子白板\电磁白板\130705\GK.WhiteboardServer beta4\GK.WhiteboardServer\obj\x86\Release\GK.WhiteboardServer.AboutForm.de.resources
+D:\SourceCode\电子白板\电磁白板\130705\GK.WhiteboardServer beta4\GK.WhiteboardServer\obj\x86\Release\GK.WhiteboardServer.AboutForm.en.resources
+D:\SourceCode\电子白板\电磁白板\130705\GK.WhiteboardServer beta4\GK.WhiteboardServer\obj\x86\Release\GK.WhiteboardServer.AboutForm.zh-TW.resources
+D:\SourceCode\电子白板\电磁白板\130705\GK.WhiteboardServer beta4\GK.WhiteboardServer\obj\x86\Release\GK.WhiteboardServer.FrmMain.de.resources
+D:\SourceCode\电子白板\电磁白板\130705\GK.WhiteboardServer beta4\GK.WhiteboardServer\obj\x86\Release\GK.WhiteboardServer.FrmMain.en.resources
+D:\SourceCode\电子白板\电磁白板\130705\GK.WhiteboardServer beta4\GK.WhiteboardServer\obj\x86\Release\GK.WhiteboardServer.FrmMain.zh-CN.resources
+D:\SourceCode\电子白板\电磁白板\130705\GK.WhiteboardServer beta4\GK.WhiteboardServer\obj\x86\Release\GK.WhiteboardServer.FrmMain.zh-TW.resources
+D:\SourceCode\电子白板\电磁白板\130705\GK.WhiteboardServer beta4\GK.WhiteboardServer\obj\x86\Release\GenerateResource.read.1.tlog
+D:\SourceCode\电子白板\电磁白板\130705\GK.WhiteboardServer beta4\GK.WhiteboardServer\obj\x86\Release\GenerateResource.write.1.tlog
+D:\SourceCode\电子白板\电磁白板\130705\GK.WhiteboardServer beta4\GK.WhiteboardServer\obj\x86\Release\de\GK.WhiteboardServer.resources.dll
+D:\SourceCode\电子白板\电磁白板\130705\GK.WhiteboardServer beta4\GK.WhiteboardServer\obj\x86\Release\en\GK.WhiteboardServer.resources.dll
+D:\SourceCode\电子白板\电磁白板\130705\GK.WhiteboardServer beta4\GK.WhiteboardServer\obj\x86\Release\zh-TW\GK.WhiteboardServer.resources.dll
+D:\SourceCode\电子白板\电磁白板\130705\GK.WhiteboardServer beta4\GK.WhiteboardServer\obj\x86\Release\zh-CN\GK.WhiteboardServer.resources.dll
+D:\SourceCode\电子白板\电磁白板\130705\GK.WhiteboardServer beta4\GK.WhiteboardServer\obj\x86\Release\GK.WhiteboardServer.exe
+D:\SourceCode\电子白板\电磁白板\130705\GK.WhiteboardServer beta4\GK.WhiteboardServer\obj\x86\Release\GK.WhiteboardServer.pdb
+D:\src\电子白板\电磁白板\131022\whiteboardserver\GK.WhiteboardServer\obj\x86\Release\GK.WhiteboardServer.exe
+D:\src\电子白板\电磁白板\131022\whiteboardserver\GK.WhiteboardServer\obj\x86\Release\GK.WhiteboardServer.pdb
